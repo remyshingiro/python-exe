@@ -1,1 +1,5 @@
-choice = input('Roll the dice? (y/n): ')
+import random
+
+while True:
+    choice = input('Wanna play die game? (y/n): ')
+   
