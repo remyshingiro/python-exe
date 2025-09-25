@@ -9,4 +9,5 @@ while True:
             print('Too low!!')
         elif guess > number_to_guess:
             print('Too high!!!')
-        
+        else:
+            print('Congratulations!! You guessed the number!!')
