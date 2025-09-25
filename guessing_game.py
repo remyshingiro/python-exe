@@ -7,4 +7,6 @@ while True:
 
         if guess < number_to_guess:
             print('Too low!!')
+        elif guess > number_to_guess:
+            print('Too high!!!')
         
